@@ -1,0 +1,7 @@
+final _drawerController = ZoomDrawerController();
+
+    _drawerController.open();
+    _drawerController.close();
+    _drawerController.toggle();
+    _drawerController.isOpen();
+    _drawerController.stateNotifier;
